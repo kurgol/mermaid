@@ -4,6 +4,8 @@
 
 [Mermaid Live Editor: Gantt](https://mermaid.live/edit#pako:eNpdkcFuwyAMhl_F8jmtgIbQcKtWbaeetsumXFChadQGKupI26q--6BJV20WEtj-P_8CLrgN1qHG1niixkMK6ujoYAUvuQTrzrTR9GPLGnLPIfaGAN5TzDab2Xo99s5uS13w8DruY3EFZM4HeIQ2vADBeDljPK0CFsxOUh9o7-ID0GZHKTccICP2r80kH4tvmel8bk42dwsuMs3FRJv_JqBBlBYLbGNnUVMcXIG9S1fMKV4y1mBietegTkfrdmY4UoONvybsZPxHCP2djGFo96h35nhO2XDKDza94K_EeeviUxg8oRZLcZuB-oKfqKWcL1VZKy64VGVVVwV-ZZGaLyomhWBqsaxreS3w-2bKklyyFKJiSjEh0zRnOwpxM37r7XevPz9xjB8)
 
+[Mermaid Documentation: Gantt Chart](https://mermaid.js.org/syntax/gantt.html)
+
 ```
 gantt
     title A Gantt Diagram
