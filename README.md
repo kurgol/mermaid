@@ -2,6 +2,8 @@
 
 A collection of [Mermaid](https://mermaid.js.org/) diagram examples showcasing various diagram types supported by the Mermaid diagramming and charting tool. Each example includes the Mermaid code syntax along with a link to the Mermaid Live Editor for interactive editing.
 
+For comprehensive documentation on Mermaid syntax and features, visit the [official Mermaid documentation](https://mermaid.ai/open-source/intro/).
+
 ## Table of Contents
 
 | Diagram Type | Description |
