@@ -4,6 +4,8 @@
 
 [Mermaid Live Editor: User Journey](https://mermaid.live/edit#pako:eNplUL1qw0AMfhWh2UsJWW5NoJOnbsWLyCn2NbZkZB0hhLx7znZMU6pJ369AdzxpZAz4o9mEb41AGU_eM9Q3uKpdkrQQ6aVMfPKkAp8Krou88gA1XRicKcA-QM0bXYx5nJySTQF278pxzQf4mNkKDuT_bnQ6vDdFvcrW9efKV_JFfNFYYWspYnDLXOHANtAM8T4HGvSOSy-GskY-U-69wUYeJTaSfKsOW9I0tx2GM_VTQXmM5HxM1Br9Wlgi20GzOIb9rkKOydXq9a3Ldx9PsdVw-w)
 
+[Mermaid Documentation: User Journey](https://mermaid.js.org/syntax/userJourney.html)
+
 ```
 journey
     title My working day

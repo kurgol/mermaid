@@ -4,6 +4,8 @@
 
 [Mermaid Live Editor: XY](https://mermaid.live/edit#pako:eNqtUk1vgzAM_SuWtcMmhSogIMBhl-26y3Zb2SEFl1JBQCGpYFX_-xLYxx9YDi9-8fNzZPmK1VATFjgv1UlqExzIyFKBO6Y1HUGJb7KjCV7pQspSiVtyDuTcTrA_S8XgSAcGvdQM5Kh9tDA4W-Whc2-2YTDRyGCoDAM1XBjUVH1sRstmVOJ3A7hvFdw9lAgx5xyC4BHC0EWb-iA17BNHGaQrisRjFnnM1zjk2xXyjW2pFbM1I37Lv7_QtYr-0xUZNrqtsTDaEsOedC89xavvV6I5Ue8GWbiwpqO0nfFTvbmyUar3Yeh_KvVgmxMWR9lNjtmxloaeW9lo-SchVZN-GqwyWKTJaoHFFWcskmSXiTgXYRQmIk7zOGW4eNEujeI8CzORCBGLG8PPtSd3cj8EHqVcCB4lIUOqWzPol21F1k25fQF8-Je_)
 
+[Mermaid Documentation: XY Chart](https://mermaid.js.org/syntax/xyChart.html)
+
 ```
 xychart-beta
     title "Sales Revenue"
